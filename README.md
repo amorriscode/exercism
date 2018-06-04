@@ -2,10 +2,10 @@
 
 Flexing the brain muscles through code exercises from [exercism.io](http://exercism.io/).
 
-# Progress 🤓
+## Progress 🤓
 
-## Python 
+### Python
 
 - ~~Hello World~~
 - ~~Leap~~
-
+- Reverse String
