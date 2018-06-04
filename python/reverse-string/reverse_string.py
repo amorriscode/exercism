@@ -1,4 +1,3 @@
 def reverse(input=''):
-    letters = list(input)
-    letters.reverse()
+    letters = list(input)[::-1]
     return "".join(letters)
