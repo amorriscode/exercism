@@ -1,23 +1,14 @@
-//
-// This is only a SKELETON file for the "Leap" exercise. It's been provided as a
-// convenience to get you started writing code faster.
-//
-
 class Year { 
   constructor(input) {
-    this.value = input;
+    this.year = input;
   }
 
   isLeap() {
-    if (this.value % 4 === 0) {
-      if (this.value % 100 === 0 && this.value % 400 === 0) {
-        return true;
-      } else if (this.value % 100 != 0) {
-        return true;
-      }
+    if (this.year % 4 !== 0) {
+      return false;
     }
-  
-    return false;
+
+    return (this.year % 100 === 0 && this.year % 400 === 0) || (this.year % 100 != 0);
   }
 }
 
