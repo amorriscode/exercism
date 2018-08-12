@@ -6,8 +6,11 @@ Flexing the brain muscles through code exercises from [exercism.io](http://exerc
 
 ### Python
 
+- ~~hello-world~~
+- ~~leap~~
 - ~~bob~~
 
 ### JavaScript
 
 - ~~hello-world~~
+- ~~leap~~
