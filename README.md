@@ -4,18 +4,19 @@ Flexing the brain muscles through code exercises from [exercism.io](http://exerc
 
 ## Progress 🤓
 
-### Python
+### Python (3/117)
 
 - ~~hello-world~~
 - ~~leap~~
 - ~~bob~~
 
-### JavaScript
+### JavaScript (3/103)
 
 - ~~hello-world~~
 - ~~leap~~
+- ~~two-fer~~
 
-### Rust
+### Rust (2/92)
 
 - ~~hello-world~~
 - ~~reverse-string~~
