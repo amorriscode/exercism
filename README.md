@@ -14,3 +14,7 @@ Flexing the brain muscles through code exercises from [exercism.io](http://exerc
 
 - ~~hello-world~~
 - ~~leap~~
+
+### Rust
+
+- ~~hello-world~~
